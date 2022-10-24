@@ -1,7 +1,7 @@
 {
   "name": "test-vanesa",
   "theme": "ui",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "description": "Test release theme vanesa",
   "main": "./lib/main",
   "keywords": [
